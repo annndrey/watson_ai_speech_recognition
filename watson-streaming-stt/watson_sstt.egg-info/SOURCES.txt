@@ -1,0 +1,17 @@
+AUTHORS
+ChangeLog
+LICENSE
+README.rst
+requirements.txt
+setup.cfg
+setup.py
+speech.cfg.example
+transcribe.py
+docs/images/input_audio.png
+watson_sstt.egg-info/PKG-INFO
+watson_sstt.egg-info/SOURCES.txt
+watson_sstt.egg-info/dependency_links.txt
+watson_sstt.egg-info/not-zip-safe
+watson_sstt.egg-info/pbr.json
+watson_sstt.egg-info/requires.txt
+watson_sstt.egg-info/top_level.txt

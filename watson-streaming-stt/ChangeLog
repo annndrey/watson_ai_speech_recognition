@@ -1,0 +1,16 @@
+CHANGES
+=======
+
+* Added Apache License
+* Add basic setup scripts
+* Add expected output
+* updated to have a more sensible UI for displaying real time results
+* add aspirational command line args
+* make timeout function as expected
+* added more to readme
+* Add basic readme
+* move back to default channel
+* port to python3
+* Update requirements websocket client spelling
+* Add example config
+* Initial commit for working streaming audio

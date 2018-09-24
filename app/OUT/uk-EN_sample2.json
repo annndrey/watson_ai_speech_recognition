@@ -1,0 +1,1709 @@
+{
+    "result_index": 0,
+    "results": [
+        {
+            "alternatives": [
+                {
+                    "confidence": 0.892,
+                    "timestamps": [
+                        [
+                            "so",
+                            0.63,
+                            0.75
+                        ],
+                        [
+                            "thank",
+                            0.75,
+                            1.08
+                        ],
+                        [
+                            "you",
+                            1.08,
+                            1.19
+                        ],
+                        [
+                            "very",
+                            1.19,
+                            1.44
+                        ],
+                        [
+                            "much",
+                            1.44,
+                            1.68
+                        ],
+                        [
+                            "for",
+                            1.68,
+                            1.81
+                        ],
+                        [
+                            "coming",
+                            1.81,
+                            2.12
+                        ],
+                        [
+                            "David's",
+                            2.12,
+                            2.6
+                        ],
+                        [
+                            "good",
+                            2.6,
+                            2.77
+                        ],
+                        [
+                            "to",
+                            2.77,
+                            2.85
+                        ],
+                        [
+                            "have",
+                            2.85,
+                            3.05
+                        ],
+                        [
+                            "you",
+                            3.05,
+                            3.14
+                        ],
+                        [
+                            "here",
+                            3.14,
+                            3.37
+                        ],
+                        [
+                            "good",
+                            3.95,
+                            4.15
+                        ],
+                        [
+                            "is",
+                            4.15,
+                            4.24
+                        ],
+                        [
+                            "my",
+                            4.24,
+                            4.37
+                        ],
+                        [
+                            "pleasure",
+                            4.37,
+                            4.68
+                        ],
+                        [
+                            "Michael",
+                            4.68,
+                            4.98
+                        ],
+                        [
+                            "glad",
+                            4.98,
+                            5.16
+                        ],
+                        [
+                            "to",
+                            5.16,
+                            5.23
+                        ],
+                        [
+                            "be",
+                            5.23,
+                            5.31
+                        ],
+                        [
+                            "with",
+                            5.31,
+                            5.47
+                        ],
+                        [
+                            "you",
+                            5.47,
+                            5.65
+                        ]
+                    ],
+                    "transcript": "so thank you very much for coming David's good to have you here good is my pleasure Michael glad to be with you "
+                }
+            ],
+            "final": true
+        },
+        {
+            "alternatives": [
+                {
+                    "confidence": 0.896,
+                    "timestamps": [
+                        [
+                            "how",
+                            6.32,
+                            6.51
+                        ],
+                        [
+                            "real",
+                            6.51,
+                            7.07
+                        ],
+                        [
+                            "is",
+                            7.64,
+                            7.82
+                        ],
+                        [
+                            "artificial",
+                            7.82,
+                            8.35
+                        ],
+                        [
+                            "intelligence",
+                            8.35,
+                            9.14
+                        ],
+                        [
+                            "the",
+                            9.36,
+                            9.49
+                        ],
+                        [
+                            "question",
+                            9.49,
+                            9.86
+                        ],
+                        [
+                            "of",
+                            9.86,
+                            9.96
+                        ],
+                        [
+                            "how",
+                            9.96,
+                            10.07
+                        ],
+                        [
+                            "real",
+                            10.07,
+                            10.59
+                        ],
+                        [
+                            "is",
+                            10.62,
+                            10.81
+                        ],
+                        [
+                            "artificial",
+                            10.81,
+                            11.33
+                        ],
+                        [
+                            "intelligence",
+                            11.33,
+                            11.94
+                        ],
+                        [
+                            "is",
+                            11.94,
+                            12.07
+                        ],
+                        [
+                            "a",
+                            12.07,
+                            12.15
+                        ],
+                        [
+                            "complex",
+                            12.15,
+                            12.76
+                        ],
+                        [
+                            "one",
+                            12.76,
+                            13.0
+                        ],
+                        [
+                            "on",
+                            13.52,
+                            13.86
+                        ],
+                        [
+                            "I",
+                            14.11,
+                            14.28
+                        ],
+                        [
+                            "would",
+                            14.28,
+                            14.5
+                        ],
+                        [
+                            "say",
+                            14.5,
+                            15.3
+                        ],
+                        [
+                            "%HESITATION",
+                            15.73,
+                            16.06
+                        ],
+                        [
+                            "if",
+                            16.31,
+                            16.65
+                        ],
+                        [
+                            "if",
+                            16.68,
+                            16.89
+                        ],
+                        [
+                            "we",
+                            16.89,
+                            17.13
+                        ],
+                        [
+                            "define",
+                            17.13,
+                            17.95
+                        ],
+                        [
+                            "artificial",
+                            18.04,
+                            18.59
+                        ],
+                        [
+                            "intelligence",
+                            18.59,
+                            19.27
+                        ],
+                        [
+                            "is",
+                            19.27,
+                            19.5
+                        ],
+                        [
+                            "the",
+                            19.5,
+                            19.67
+                        ],
+                        [
+                            "ability",
+                            19.67,
+                            20.26
+                        ],
+                        [
+                            "of",
+                            20.26,
+                            20.41
+                        ],
+                        [
+                            "a",
+                            20.41,
+                            20.51
+                        ],
+                        [
+                            "machine",
+                            20.51,
+                            21.16
+                        ],
+                        [
+                            "on",
+                            21.49,
+                            21.78
+                        ],
+                        [
+                            "its",
+                            21.78,
+                            22.01
+                        ],
+                        [
+                            "own",
+                            22.01,
+                            22.37
+                        ],
+                        [
+                            "to",
+                            22.99,
+                            23.14
+                        ],
+                        [
+                            "understand",
+                            23.14,
+                            23.78
+                        ],
+                        [
+                            "large",
+                            23.78,
+                            24.01
+                        ],
+                        [
+                            "volumes",
+                            24.01,
+                            24.36
+                        ],
+                        [
+                            "of",
+                            24.36,
+                            24.5
+                        ],
+                        [
+                            "data",
+                            24.5,
+                            24.91
+                        ],
+                        [
+                            "to",
+                            25.19,
+                            25.38
+                        ],
+                        [
+                            "reason",
+                            25.38,
+                            25.95
+                        ],
+                        [
+                            "that",
+                            25.95,
+                            26.18
+                        ],
+                        [
+                            "data",
+                            26.18,
+                            26.45
+                        ],
+                        [
+                            "with",
+                            26.45,
+                            26.63
+                        ],
+                        [
+                            "a",
+                            26.63,
+                            26.68
+                        ],
+                        [
+                            "purpose",
+                            26.68,
+                            27.16
+                        ],
+                        [
+                            "to",
+                            27.16,
+                            27.28
+                        ],
+                        [
+                            "it",
+                            27.28,
+                            27.41
+                        ],
+                        [
+                            "to",
+                            27.58,
+                            27.7
+                        ],
+                        [
+                            "predict",
+                            27.7,
+                            28.0
+                        ],
+                        [
+                            "the",
+                            28.0,
+                            28.08
+                        ],
+                        [
+                            "future",
+                            28.08,
+                            28.57
+                        ],
+                        [
+                            "and",
+                            28.82,
+                            29.07
+                        ],
+                        [
+                            "then",
+                            29.07,
+                            29.24
+                        ],
+                        [
+                            "tell",
+                            29.24,
+                            29.48
+                        ],
+                        [
+                            "you",
+                            29.48,
+                            29.54
+                        ],
+                        [
+                            "continue",
+                            29.54,
+                            30.1
+                        ],
+                        [
+                            "to",
+                            30.1,
+                            30.25
+                        ],
+                        [
+                            "learn",
+                            30.25,
+                            30.48
+                        ],
+                        [
+                            "and",
+                            30.48,
+                            30.59
+                        ],
+                        [
+                            "get",
+                            30.59,
+                            30.76
+                        ],
+                        [
+                            "better",
+                            30.76,
+                            31.2
+                        ],
+                        [
+                            "that",
+                            31.74,
+                            32.05
+                        ],
+                        [
+                            "is",
+                            32.08,
+                            32.29
+                        ],
+                        [
+                            "happening",
+                            32.29,
+                            32.72
+                        ],
+                        [
+                            "today",
+                            32.72,
+                            32.98
+                        ],
+                        [
+                            "in",
+                            32.98,
+                            33.1
+                        ],
+                        [
+                            "certain",
+                            33.1,
+                            33.38
+                        ],
+                        [
+                            "fields",
+                            33.38,
+                            33.81
+                        ],
+                        [
+                            "how",
+                            33.84,
+                            34.1
+                        ],
+                        [
+                            "far",
+                            34.1,
+                            34.43
+                        ],
+                        [
+                            "in",
+                            34.43,
+                            34.51
+                        ],
+                        [
+                            "the",
+                            34.51,
+                            34.62
+                        ],
+                        [
+                            "continuum",
+                            34.62,
+                            35.46
+                        ],
+                        [
+                            "is",
+                            35.46,
+                            35.65
+                        ],
+                        [
+                            "IBM",
+                            35.65,
+                            36.16
+                        ],
+                        [
+                            "Watson",
+                            36.16,
+                            36.83
+                        ],
+                        [
+                            "in",
+                            37.02,
+                            37.41
+                        ],
+                        [
+                            "operability",
+                            37.97,
+                            39.12
+                        ],
+                        [
+                            "artificial",
+                            39.82,
+                            40.39
+                        ],
+                        [
+                            "intelligence",
+                            40.39,
+                            41.16
+                        ],
+                        [
+                            "yes",
+                            41.77,
+                            42.03
+                        ],
+                        [
+                            "so",
+                            42.03,
+                            42.29
+                        ],
+                        [
+                            "the",
+                            42.71,
+                            42.83
+                        ],
+                        [
+                            "first",
+                            42.83,
+                            43.1
+                        ],
+                        [
+                            "of",
+                            43.1,
+                            43.17
+                        ],
+                        [
+                            "all",
+                            43.17,
+                            43.28
+                        ],
+                        [
+                            "once",
+                            43.28,
+                            43.72
+                        ],
+                        [
+                            "once",
+                            43.92,
+                            44.22
+                        ],
+                        [
+                            "it's",
+                            44.22,
+                            44.35
+                        ],
+                        [
+                            "actually",
+                            44.35,
+                            44.7
+                        ],
+                        [
+                            "intelligent",
+                            44.7,
+                            45.28
+                        ],
+                        [
+                            "it",
+                            45.28,
+                            45.38
+                        ],
+                        [
+                            "will",
+                            45.38,
+                            45.49
+                        ],
+                        [
+                            "no",
+                            45.49,
+                            45.65
+                        ],
+                        [
+                            "longer",
+                            45.65,
+                            45.98
+                        ],
+                        [
+                            "be",
+                            45.98,
+                            46.11
+                        ],
+                        [
+                            "artificial",
+                            46.11,
+                            46.79
+                        ],
+                        [
+                            "so",
+                            47.06,
+                            47.48
+                        ],
+                        [
+                            "we're",
+                            47.77,
+                            47.95
+                        ],
+                        [
+                            "moving",
+                            47.95,
+                            48.53
+                        ],
+                        [
+                            "to",
+                            48.78,
+                            48.93
+                        ],
+                        [
+                            "the",
+                            48.93,
+                            49.03
+                        ],
+                        [
+                            "point",
+                            49.03,
+                            49.32
+                        ],
+                        [
+                            "that",
+                            49.32,
+                            49.53
+                        ],
+                        [
+                            "these",
+                            49.74,
+                            50.03
+                        ],
+                        [
+                            "systems",
+                            50.03,
+                            50.44
+                        ],
+                        [
+                            "increasingly",
+                            50.44,
+                            51.52
+                        ],
+                        [
+                            "understand",
+                            51.86,
+                            52.84
+                        ],
+                        [
+                            "enormous",
+                            52.88,
+                            53.45
+                        ],
+                        [
+                            "volumes",
+                            53.45,
+                            53.85
+                        ],
+                        [
+                            "of",
+                            53.85,
+                            53.96
+                        ],
+                        [
+                            "data",
+                            53.96,
+                            54.34
+                        ]
+                    ],
+                    "transcript": "how real is artificial intelligence the question of how real is artificial intelligence is a complex one on I would say %HESITATION if if we define artificial intelligence is the ability of a machine on its own to understand large volumes of data to reason that data with a purpose to it to predict the future and then tell you continue to learn and get better that is happening today in certain fields how far in the continuum is IBM Watson in operability artificial intelligence yes so the first of all once once it's actually intelligent it will no longer be artificial so we're moving to the point that these systems increasingly understand enormous volumes of data "
+                }
+            ],
+            "final": true
+        }
+    ],
+    "speaker_labels": [
+        {
+            "confidence": 0.667,
+            "final": false,
+            "from": 0.63,
+            "speaker": 0,
+            "to": 0.75
+        },
+        {
+            "confidence": 0.667,
+            "final": false,
+            "from": 0.75,
+            "speaker": 0,
+            "to": 1.08
+        },
+        {
+            "confidence": 0.667,
+            "final": false,
+            "from": 1.08,
+            "speaker": 0,
+            "to": 1.19
+        },
+        {
+            "confidence": 0.667,
+            "final": false,
+            "from": 1.19,
+            "speaker": 0,
+            "to": 1.44
+        },
+        {
+            "confidence": 0.667,
+            "final": false,
+            "from": 1.44,
+            "speaker": 0,
+            "to": 1.68
+        },
+        {
+            "confidence": 0.667,
+            "final": false,
+            "from": 1.68,
+            "speaker": 0,
+            "to": 1.81
+        },
+        {
+            "confidence": 0.667,
+            "final": false,
+            "from": 1.81,
+            "speaker": 0,
+            "to": 2.12
+        },
+        {
+            "confidence": 0.667,
+            "final": false,
+            "from": 2.12,
+            "speaker": 0,
+            "to": 2.6
+        },
+        {
+            "confidence": 0.667,
+            "final": false,
+            "from": 2.6,
+            "speaker": 0,
+            "to": 2.77
+        },
+        {
+            "confidence": 0.667,
+            "final": false,
+            "from": 2.77,
+            "speaker": 0,
+            "to": 2.85
+        },
+        {
+            "confidence": 0.667,
+            "final": false,
+            "from": 2.85,
+            "speaker": 0,
+            "to": 3.05
+        },
+        {
+            "confidence": 0.667,
+            "final": false,
+            "from": 3.05,
+            "speaker": 0,
+            "to": 3.14
+        },
+        {
+            "confidence": 0.667,
+            "final": false,
+            "from": 3.14,
+            "speaker": 0,
+            "to": 3.37
+        },
+        {
+            "confidence": 0.667,
+            "final": false,
+            "from": 3.95,
+            "speaker": 1,
+            "to": 4.15
+        },
+        {
+            "confidence": 0.667,
+            "final": false,
+            "from": 4.15,
+            "speaker": 1,
+            "to": 4.24
+        },
+        {
+            "confidence": 0.667,
+            "final": false,
+            "from": 4.24,
+            "speaker": 1,
+            "to": 4.37
+        },
+        {
+            "confidence": 0.667,
+            "final": false,
+            "from": 4.37,
+            "speaker": 1,
+            "to": 4.68
+        },
+        {
+            "confidence": 0.667,
+            "final": false,
+            "from": 4.68,
+            "speaker": 1,
+            "to": 4.98
+        },
+        {
+            "confidence": 0.667,
+            "final": false,
+            "from": 4.98,
+            "speaker": 1,
+            "to": 5.16
+        },
+        {
+            "confidence": 0.667,
+            "final": false,
+            "from": 5.16,
+            "speaker": 1,
+            "to": 5.23
+        },
+        {
+            "confidence": 0.667,
+            "final": false,
+            "from": 5.23,
+            "speaker": 1,
+            "to": 5.31
+        },
+        {
+            "confidence": 0.667,
+            "final": false,
+            "from": 5.31,
+            "speaker": 1,
+            "to": 5.47
+        },
+        {
+            "confidence": 0.667,
+            "final": false,
+            "from": 5.47,
+            "speaker": 1,
+            "to": 5.65
+        },
+        {
+            "confidence": 0.529,
+            "final": false,
+            "from": 6.32,
+            "speaker": 0,
+            "to": 6.51
+        },
+        {
+            "confidence": 0.529,
+            "final": false,
+            "from": 6.51,
+            "speaker": 0,
+            "to": 7.07
+        },
+        {
+            "confidence": 0.618,
+            "final": false,
+            "from": 7.64,
+            "speaker": 0,
+            "to": 7.82
+        },
+        {
+            "confidence": 0.618,
+            "final": false,
+            "from": 7.82,
+            "speaker": 0,
+            "to": 8.35
+        },
+        {
+            "confidence": 0.618,
+            "final": false,
+            "from": 8.35,
+            "speaker": 0,
+            "to": 9.14
+        },
+        {
+            "confidence": 0.504,
+            "final": false,
+            "from": 9.36,
+            "speaker": 1,
+            "to": 9.49
+        },
+        {
+            "confidence": 0.504,
+            "final": false,
+            "from": 9.49,
+            "speaker": 1,
+            "to": 9.86
+        },
+        {
+            "confidence": 0.504,
+            "final": false,
+            "from": 9.86,
+            "speaker": 1,
+            "to": 9.96
+        },
+        {
+            "confidence": 0.504,
+            "final": false,
+            "from": 9.96,
+            "speaker": 1,
+            "to": 10.07
+        },
+        {
+            "confidence": 0.504,
+            "final": false,
+            "from": 10.07,
+            "speaker": 1,
+            "to": 10.59
+        },
+        {
+            "confidence": 0.421,
+            "final": false,
+            "from": 10.62,
+            "speaker": 1,
+            "to": 10.81
+        },
+        {
+            "confidence": 0.421,
+            "final": false,
+            "from": 10.81,
+            "speaker": 1,
+            "to": 11.33
+        },
+        {
+            "confidence": 0.421,
+            "final": false,
+            "from": 11.33,
+            "speaker": 1,
+            "to": 11.94
+        },
+        {
+            "confidence": 0.421,
+            "final": false,
+            "from": 11.94,
+            "speaker": 1,
+            "to": 12.07
+        },
+        {
+            "confidence": 0.421,
+            "final": false,
+            "from": 12.07,
+            "speaker": 1,
+            "to": 12.15
+        },
+        {
+            "confidence": 0.421,
+            "final": false,
+            "from": 12.15,
+            "speaker": 1,
+            "to": 12.76
+        },
+        {
+            "confidence": 0.421,
+            "final": false,
+            "from": 12.76,
+            "speaker": 1,
+            "to": 13.0
+        },
+        {
+            "confidence": 0.366,
+            "final": false,
+            "from": 13.52,
+            "speaker": 1,
+            "to": 13.86
+        },
+        {
+            "confidence": 0.598,
+            "final": false,
+            "from": 14.11,
+            "speaker": 1,
+            "to": 14.28
+        },
+        {
+            "confidence": 0.598,
+            "final": false,
+            "from": 14.28,
+            "speaker": 1,
+            "to": 14.5
+        },
+        {
+            "confidence": 0.598,
+            "final": false,
+            "from": 14.5,
+            "speaker": 1,
+            "to": 15.3
+        },
+        {
+            "confidence": 0.357,
+            "final": false,
+            "from": 15.73,
+            "speaker": 1,
+            "to": 16.06
+        },
+        {
+            "confidence": 0.598,
+            "final": false,
+            "from": 16.31,
+            "speaker": 1,
+            "to": 16.65
+        },
+        {
+            "confidence": 0.568,
+            "final": false,
+            "from": 16.68,
+            "speaker": 1,
+            "to": 16.89
+        },
+        {
+            "confidence": 0.568,
+            "final": false,
+            "from": 16.89,
+            "speaker": 1,
+            "to": 17.13
+        },
+        {
+            "confidence": 0.568,
+            "final": false,
+            "from": 17.13,
+            "speaker": 1,
+            "to": 17.95
+        },
+        {
+            "confidence": 0.523,
+            "final": false,
+            "from": 18.04,
+            "speaker": 1,
+            "to": 18.59
+        },
+        {
+            "confidence": 0.523,
+            "final": false,
+            "from": 18.59,
+            "speaker": 1,
+            "to": 19.27
+        },
+        {
+            "confidence": 0.523,
+            "final": false,
+            "from": 19.27,
+            "speaker": 1,
+            "to": 19.5
+        },
+        {
+            "confidence": 0.523,
+            "final": false,
+            "from": 19.5,
+            "speaker": 1,
+            "to": 19.67
+        },
+        {
+            "confidence": 0.523,
+            "final": false,
+            "from": 19.67,
+            "speaker": 1,
+            "to": 20.26
+        },
+        {
+            "confidence": 0.523,
+            "final": false,
+            "from": 20.26,
+            "speaker": 1,
+            "to": 20.41
+        },
+        {
+            "confidence": 0.523,
+            "final": false,
+            "from": 20.41,
+            "speaker": 1,
+            "to": 20.51
+        },
+        {
+            "confidence": 0.523,
+            "final": false,
+            "from": 20.51,
+            "speaker": 1,
+            "to": 21.16
+        },
+        {
+            "confidence": 0.51,
+            "final": false,
+            "from": 21.49,
+            "speaker": 1,
+            "to": 21.78
+        },
+        {
+            "confidence": 0.51,
+            "final": false,
+            "from": 21.78,
+            "speaker": 1,
+            "to": 22.01
+        },
+        {
+            "confidence": 0.51,
+            "final": false,
+            "from": 22.01,
+            "speaker": 1,
+            "to": 22.37
+        },
+        {
+            "confidence": 0.58,
+            "final": false,
+            "from": 22.99,
+            "speaker": 1,
+            "to": 23.14
+        },
+        {
+            "confidence": 0.58,
+            "final": false,
+            "from": 23.14,
+            "speaker": 1,
+            "to": 23.78
+        },
+        {
+            "confidence": 0.58,
+            "final": false,
+            "from": 23.78,
+            "speaker": 1,
+            "to": 24.01
+        },
+        {
+            "confidence": 0.58,
+            "final": false,
+            "from": 24.01,
+            "speaker": 1,
+            "to": 24.36
+        },
+        {
+            "confidence": 0.58,
+            "final": false,
+            "from": 24.36,
+            "speaker": 1,
+            "to": 24.5
+        },
+        {
+            "confidence": 0.58,
+            "final": false,
+            "from": 24.5,
+            "speaker": 1,
+            "to": 24.91
+        },
+        {
+            "confidence": 0.58,
+            "final": false,
+            "from": 25.19,
+            "speaker": 1,
+            "to": 25.38
+        },
+        {
+            "confidence": 0.58,
+            "final": false,
+            "from": 25.38,
+            "speaker": 1,
+            "to": 25.95
+        },
+        {
+            "confidence": 0.58,
+            "final": false,
+            "from": 25.95,
+            "speaker": 1,
+            "to": 26.18
+        },
+        {
+            "confidence": 0.58,
+            "final": false,
+            "from": 26.18,
+            "speaker": 1,
+            "to": 26.45
+        },
+        {
+            "confidence": 0.58,
+            "final": false,
+            "from": 26.45,
+            "speaker": 1,
+            "to": 26.63
+        },
+        {
+            "confidence": 0.58,
+            "final": false,
+            "from": 26.63,
+            "speaker": 1,
+            "to": 26.68
+        },
+        {
+            "confidence": 0.58,
+            "final": false,
+            "from": 26.68,
+            "speaker": 1,
+            "to": 27.16
+        },
+        {
+            "confidence": 0.58,
+            "final": false,
+            "from": 27.16,
+            "speaker": 1,
+            "to": 27.28
+        },
+        {
+            "confidence": 0.58,
+            "final": false,
+            "from": 27.28,
+            "speaker": 1,
+            "to": 27.41
+        },
+        {
+            "confidence": 0.394,
+            "final": false,
+            "from": 27.58,
+            "speaker": 1,
+            "to": 27.7
+        },
+        {
+            "confidence": 0.394,
+            "final": false,
+            "from": 27.7,
+            "speaker": 1,
+            "to": 28.0
+        },
+        {
+            "confidence": 0.394,
+            "final": false,
+            "from": 28.0,
+            "speaker": 1,
+            "to": 28.08
+        },
+        {
+            "confidence": 0.394,
+            "final": false,
+            "from": 28.08,
+            "speaker": 1,
+            "to": 28.57
+        },
+        {
+            "confidence": 0.517,
+            "final": false,
+            "from": 28.82,
+            "speaker": 1,
+            "to": 29.07
+        },
+        {
+            "confidence": 0.517,
+            "final": false,
+            "from": 29.07,
+            "speaker": 1,
+            "to": 29.24
+        },
+        {
+            "confidence": 0.517,
+            "final": false,
+            "from": 29.24,
+            "speaker": 1,
+            "to": 29.48
+        },
+        {
+            "confidence": 0.517,
+            "final": false,
+            "from": 29.48,
+            "speaker": 1,
+            "to": 29.54
+        },
+        {
+            "confidence": 0.517,
+            "final": false,
+            "from": 29.54,
+            "speaker": 1,
+            "to": 30.1
+        },
+        {
+            "confidence": 0.517,
+            "final": false,
+            "from": 30.1,
+            "speaker": 1,
+            "to": 30.25
+        },
+        {
+            "confidence": 0.517,
+            "final": false,
+            "from": 30.25,
+            "speaker": 1,
+            "to": 30.48
+        },
+        {
+            "confidence": 0.517,
+            "final": false,
+            "from": 30.48,
+            "speaker": 1,
+            "to": 30.59
+        },
+        {
+            "confidence": 0.517,
+            "final": false,
+            "from": 30.59,
+            "speaker": 1,
+            "to": 30.76
+        },
+        {
+            "confidence": 0.517,
+            "final": false,
+            "from": 30.76,
+            "speaker": 1,
+            "to": 31.2
+        },
+        {
+            "confidence": 0.338,
+            "final": false,
+            "from": 31.74,
+            "speaker": 1,
+            "to": 32.05
+        },
+        {
+            "confidence": 0.454,
+            "final": false,
+            "from": 32.08,
+            "speaker": 1,
+            "to": 32.29
+        },
+        {
+            "confidence": 0.454,
+            "final": false,
+            "from": 32.29,
+            "speaker": 1,
+            "to": 32.72
+        },
+        {
+            "confidence": 0.454,
+            "final": false,
+            "from": 32.72,
+            "speaker": 1,
+            "to": 32.98
+        },
+        {
+            "confidence": 0.454,
+            "final": false,
+            "from": 32.98,
+            "speaker": 1,
+            "to": 33.1
+        },
+        {
+            "confidence": 0.454,
+            "final": false,
+            "from": 33.1,
+            "speaker": 1,
+            "to": 33.38
+        },
+        {
+            "confidence": 0.454,
+            "final": false,
+            "from": 33.38,
+            "speaker": 1,
+            "to": 33.81
+        },
+        {
+            "confidence": 0.649,
+            "final": false,
+            "from": 33.84,
+            "speaker": 0,
+            "to": 34.1
+        },
+        {
+            "confidence": 0.649,
+            "final": false,
+            "from": 34.1,
+            "speaker": 0,
+            "to": 34.43
+        },
+        {
+            "confidence": 0.649,
+            "final": false,
+            "from": 34.43,
+            "speaker": 0,
+            "to": 34.51
+        },
+        {
+            "confidence": 0.649,
+            "final": false,
+            "from": 34.51,
+            "speaker": 0,
+            "to": 34.62
+        },
+        {
+            "confidence": 0.649,
+            "final": false,
+            "from": 34.62,
+            "speaker": 0,
+            "to": 35.46
+        },
+        {
+            "confidence": 0.649,
+            "final": false,
+            "from": 35.46,
+            "speaker": 0,
+            "to": 35.65
+        },
+        {
+            "confidence": 0.649,
+            "final": false,
+            "from": 35.65,
+            "speaker": 0,
+            "to": 36.16
+        },
+        {
+            "confidence": 0.649,
+            "final": false,
+            "from": 36.16,
+            "speaker": 0,
+            "to": 36.83
+        },
+        {
+            "confidence": 0.653,
+            "final": false,
+            "from": 37.02,
+            "speaker": 0,
+            "to": 37.41
+        },
+        {
+            "confidence": 0.604,
+            "final": false,
+            "from": 37.97,
+            "speaker": 0,
+            "to": 39.12
+        },
+        {
+            "confidence": 0.639,
+            "final": false,
+            "from": 39.82,
+            "speaker": 0,
+            "to": 40.39
+        },
+        {
+            "confidence": 0.639,
+            "final": false,
+            "from": 40.39,
+            "speaker": 0,
+            "to": 41.16
+        },
+        {
+            "confidence": 0.464,
+            "final": false,
+            "from": 41.77,
+            "speaker": 1,
+            "to": 42.03
+        },
+        {
+            "confidence": 0.464,
+            "final": false,
+            "from": 42.03,
+            "speaker": 1,
+            "to": 42.29
+        },
+        {
+            "confidence": 0.46,
+            "final": false,
+            "from": 42.71,
+            "speaker": 1,
+            "to": 42.83
+        },
+        {
+            "confidence": 0.46,
+            "final": false,
+            "from": 42.83,
+            "speaker": 1,
+            "to": 43.1
+        },
+        {
+            "confidence": 0.46,
+            "final": false,
+            "from": 43.1,
+            "speaker": 1,
+            "to": 43.17
+        },
+        {
+            "confidence": 0.46,
+            "final": false,
+            "from": 43.17,
+            "speaker": 1,
+            "to": 43.28
+        },
+        {
+            "confidence": 0.46,
+            "final": false,
+            "from": 43.28,
+            "speaker": 1,
+            "to": 43.72
+        },
+        {
+            "confidence": 0.425,
+            "final": false,
+            "from": 43.92,
+            "speaker": 1,
+            "to": 44.22
+        },
+        {
+            "confidence": 0.425,
+            "final": false,
+            "from": 44.22,
+            "speaker": 1,
+            "to": 44.35
+        },
+        {
+            "confidence": 0.425,
+            "final": false,
+            "from": 44.35,
+            "speaker": 1,
+            "to": 44.7
+        },
+        {
+            "confidence": 0.425,
+            "final": false,
+            "from": 44.7,
+            "speaker": 1,
+            "to": 45.28
+        },
+        {
+            "confidence": 0.425,
+            "final": false,
+            "from": 45.28,
+            "speaker": 1,
+            "to": 45.38
+        },
+        {
+            "confidence": 0.425,
+            "final": false,
+            "from": 45.38,
+            "speaker": 1,
+            "to": 45.49
+        },
+        {
+            "confidence": 0.425,
+            "final": false,
+            "from": 45.49,
+            "speaker": 1,
+            "to": 45.65
+        },
+        {
+            "confidence": 0.425,
+            "final": false,
+            "from": 45.65,
+            "speaker": 1,
+            "to": 45.98
+        },
+        {
+            "confidence": 0.425,
+            "final": false,
+            "from": 45.98,
+            "speaker": 1,
+            "to": 46.11
+        },
+        {
+            "confidence": 0.425,
+            "final": false,
+            "from": 46.11,
+            "speaker": 1,
+            "to": 46.79
+        },
+        {
+            "confidence": 0.367,
+            "final": false,
+            "from": 47.06,
+            "speaker": 1,
+            "to": 47.48
+        },
+        {
+            "confidence": 0.472,
+            "final": false,
+            "from": 47.77,
+            "speaker": 1,
+            "to": 47.95
+        },
+        {
+            "confidence": 0.472,
+            "final": false,
+            "from": 47.95,
+            "speaker": 1,
+            "to": 48.53
+        },
+        {
+            "confidence": 0.45,
+            "final": false,
+            "from": 48.78,
+            "speaker": 1,
+            "to": 48.93
+        },
+        {
+            "confidence": 0.45,
+            "final": false,
+            "from": 48.93,
+            "speaker": 1,
+            "to": 49.03
+        },
+        {
+            "confidence": 0.45,
+            "final": false,
+            "from": 49.03,
+            "speaker": 1,
+            "to": 49.32
+        },
+        {
+            "confidence": 0.45,
+            "final": false,
+            "from": 49.32,
+            "speaker": 1,
+            "to": 49.53
+        },
+        {
+            "confidence": 0.588,
+            "final": false,
+            "from": 49.74,
+            "speaker": 1,
+            "to": 50.03
+        },
+        {
+            "confidence": 0.588,
+            "final": false,
+            "from": 50.03,
+            "speaker": 1,
+            "to": 50.44
+        },
+        {
+            "confidence": 0.588,
+            "final": false,
+            "from": 50.44,
+            "speaker": 1,
+            "to": 51.52
+        },
+        {
+            "confidence": 0.451,
+            "final": false,
+            "from": 51.86,
+            "speaker": 1,
+            "to": 52.84
+        },
+        {
+            "confidence": 0.326,
+            "final": false,
+            "from": 52.88,
+            "speaker": 1,
+            "to": 53.45
+        },
+        {
+            "confidence": 0.326,
+            "final": false,
+            "from": 53.45,
+            "speaker": 1,
+            "to": 53.85
+        },
+        {
+            "confidence": 0.326,
+            "final": false,
+            "from": 53.85,
+            "speaker": 1,
+            "to": 53.96
+        },
+        {
+            "confidence": 0.326,
+            "final": true,
+            "from": 53.96,
+            "speaker": 1,
+            "to": 54.34
+        }
+    ]
+}
